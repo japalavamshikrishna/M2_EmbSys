@@ -6,3 +6,12 @@
 
 # flow chart
 ![flow_chart](https://user-images.githubusercontent.com/85923077/155829882-682161a5-8927-4c2f-8181-29d91e4c210d.JPG)
+
+# Best Methods Followed
+Exact Mapping of code to avoid confusions
+
+Mentioning of both High level and Low level Behavioral and structural diagrams for better understanding
+
+Followed the exact symbols to make the understanding easier
+
+Detailed explanation in Low level Behavioural and Structural Diagrams
